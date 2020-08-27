@@ -6,5 +6,3 @@ RUN gem install gitlab
 WORKDIR /script
 
 COPY . .
-
-ENTRYPOINT []
